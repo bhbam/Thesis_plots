@@ -1,0 +1,259 @@
+RT Journal Article
+A1 Particle Data Group 
+A1 Zyla, P A
+A1 Barnett, R M
+A1 Beringer, J
+A1 Dahl, O
+A1 Dwyer, D A
+A1 Groom, D E
+A1 Lin, C -J
+A1 Lugovsky, K S
+A1 Pianori, E
+A1 Robinson, D J
+A1 Wohl, C G
+A1 Yao, W -M
+A1 Agashe, K
+A1 Aielli, G
+A1 Allanach, B C
+A1 Amsler, C
+A1 Antonelli, M
+A1 Aschenauer, E C
+A1 Asner, D M
+A1 Baer, H
+A1 Banerjee, Sw
+A1 Baudis, L
+A1 Bauer, C W
+A1 Beatty, J J
+A1 Belousov, V I
+A1 Bethke, S
+A1 Bettini, A
+A1 Biebel, O
+A1 Black, K M
+A1 Blucher, E
+A1 Buchmuller, O
+A1 Burkert, V
+A1 Bychkov, M A
+A1 Cahn, R N
+A1 Carena, M
+A1 Ceccucci, A
+A1 Cerri, A
+A1 Chakraborty, D
+A1 Chivukula, R Sekhar
+A1 Cowan, G
+A1 D'Ambrosio, G
+A1 Damour, T
+A1 de Florian, D
+A1 de Gouvêa, A
+A1 DeGrand, T
+A1 de Jong, P
+A1 Dissertori, G
+A1 Dobrescu, B A
+A1 D'Onofrio, M
+A1 Doser, M
+A1 Drees, M
+A1 Dreiner, H K
+A1 Eerola, P
+A1 Egede, U
+A1 Eidelman, S
+A1 Ellis, J
+A1 Erler, J
+A1 Ezhela, V V
+A1 Fetscher, W
+A1 Fields, B D
+A1 Foster, B
+A1 Freitas, A
+A1 Gallagher, H
+A1 Garren, L
+A1 Gerber, H -J
+A1 Gerbier, G
+A1 Gershon, T
+A1 Gershtein, Y
+A1 Gherghetta, T
+A1 Godizov, A A
+A1 Gonzalez-Garcia, M C
+A1 Goodman, M
+A1 Grab, C
+A1 Gritsan, A V
+A1 Grojean, C
+A1 Grünewald, M
+A1 Gurtu, A
+A1 Gutsche, T
+A1 Haber, H E
+A1 Hanhart, C
+A1 Hashimoto, S
+A1 Hayato, Y
+A1 Hebecker, A
+A1 Heinemeyer, S
+A1 Heltsley, B
+A1 Hernández-Rey, J J
+A1 Hikasa, K
+A1 Hisano, J
+A1 Höcker, A
+A1 Holder, J
+A1 Holtkamp, A
+A1 Huston, J
+A1 Hyodo, T
+A1 Johnson, K F
+A1 Kado, M
+A1 Karliner, M
+A1 Katz, U F
+A1 Kenzie, M
+A1 Khoze, V A
+A1 Klein, S R
+A1 Klempt, E
+A1 Kowalewski, R V
+A1 Krauss, F
+A1 Kreps, M
+A1 Krusche, B
+A1 Kwon, Y
+A1 Lahav, O
+A1 Laiho, J
+A1 Lellouch, L P
+A1 Lesgourgues, J
+A1 Liddle, A R
+A1 Ligeti, Z
+A1 Lippmann, C
+A1 Liss, T M
+A1 Littenberg, L
+A1 Lourengo, C
+A1 Lugovsky, S B
+A1 Lusiani, A
+A1 Makida, Y
+A1 Maltoni, F
+A1 Mannel, T
+A1 Manohar, A V
+A1 Marciano, W J
+A1 Masoni, A
+A1 Matthews, J
+A1 Meißner, U -G
+A1 Mikhasenko, M
+A1 Miller, D J
+A1 Milstead, D
+A1 Mitchell, R E
+A1 Mönig, K
+A1 Molaro, P
+A1 Moortgat, F
+A1 Moskovic, M
+A1 Nakamura, K
+A1 Narain, M
+A1 Nason, P
+A1 Navas, S
+A1 Neubert, M
+A1 Nevski, P
+A1 Nir, Y
+A1 Olive, K A
+A1 Patrignani, C
+A1 Peacock, J A
+A1 Petcov, S T
+A1 Petrov, V A
+A1 Pich, A
+A1 Piepke, A
+A1 Pomarol, A
+A1 Profumo, S
+A1 Quadt, A
+A1 Rabbertz, K
+A1 Rademacker, J
+A1 Raffelt, G
+A1 Ramani, H
+A1 Ramsey-Musolf, M
+A1 Ratcliff, B N
+A1 Richardson, P
+A1 Ringwald, A
+A1 Roesler, S
+A1 Rolli, S
+A1 Romaniouk, A
+A1 Rosenberg, L J
+A1 Rosner, J L
+A1 Rybka, G
+A1 Ryskin, M
+A1 Ryutin, R A
+A1 Sakai, Y
+A1 Salam, G P
+A1 Sarkar, S
+A1 Sauli, F
+A1 Schneider, O
+A1 Scholberg, K
+A1 Schwartz, A J
+A1 Schwiening, J
+A1 Scott, D
+A1 Sharma, V
+A1 Sharpe, S R
+A1 Shutt, T
+A1 Silari, M
+A1 Sjöstrand, T
+A1 Skands, P
+A1 Skwarnicki, T
+A1 Smoot, G F
+A1 Soffer, A
+A1 Sozzi, M S
+A1 Spanier, S
+A1 Spiering, C
+A1 Stahl, A
+A1 Stone, S L
+A1 Sumino, Y
+A1 Sumiyoshi, T
+A1 Syphers, M J
+A1 Takahashi, F
+A1 Tanabashi, M
+A1 Tanaka, J
+A1 Taševský, M
+A1 Terashi, K
+A1 Terning, J
+A1 Thoma, U
+A1 Thorne, R S
+A1 Tiator, L
+A1 Titov, M
+A1 Tkachenko, N P
+A1 Tovey, D R
+A1 Trabelsi, K
+A1 Urquijo, P
+A1 Valencia, G
+A1 Van de Water, R
+A1 Varelas, N
+A1 Venanzoni, G
+A1 Verde, L
+A1 Vincter, M G
+A1 Vogel, P
+A1 Vogelsang, W
+A1 Vogt, A
+A1 Vorobyev, V
+A1 Wakely, S P
+A1 Walkowiak, W
+A1 Walter, C W
+A1 Wands, D
+A1 Wascko, M O
+A1 Weinberg, D H
+A1 Weinberg, E J
+A1 White, M
+A1 Wiencke, L R
+A1 Willocq, S
+A1 Woody, C L
+A1 Workman, R L
+A1 Yokoyama, M
+A1 Yoshida, R
+A1 Zanderighi, G
+A1 Zeller, G P
+A1 Zenin, O V
+A1 Zhu, R -Y
+A1 Zhu, S -L
+A1 Zimmermann, F
+A1 Anderson, J
+A1 Basaglia, T
+A1 Lugovsky, V S
+A1 Schaffner, P
+A1 Zheng, W
+T1 Review of Particle Physics
+JF Progress of Theoretical and Experimental Physics
+JO Prog Theor Exp Phys
+YR 2020
+DO 10.1093/ptep/ptaa104
+OP 083C01
+VO 2020
+IS 8
+SN 2050-3911
+AB The Review summarizes much of particle physics and cosmology. Using data from previous editions, plus 3,324 new measurements from 878 papers, we list, evaluate, and average measured properties of gauge bosons and the recently discovered Higgs boson, leptons, quarks, mesons, and baryons. We summarize searches for hypothetical particles such as supersymmetric particles, heavy bosons, axions, dark photons, etc. Particle properties and search limits are listed in Summary Tables. We give numerous tables, figures, formulae, and reviews of topics such as Higgs Boson Physics, Supersymmetry, Grand Unified Theories, Neutrino Mixing, Dark Energy, Dark Matter, Cosmology, Particle Detectors, Colliders, Probability and Statistics. Among the 120 reviews are many that are new or heavily revised, including a new review on High Energy Soft QCD and Diffraction and one on the Determination of CKM Angles from B Hadrons.The Review is divided into two volumes. Volume 1 includes the Summary Tables and 98 review articles. Volume 2 consists of the Particle Listings and contains also 22 reviews that address specific aspects of the data presented in the Listings.The complete Review (both volumes) is published online on the website of the Particle Data Group (pdg.lbl.gov) and in a journal. Volume 1 is available in print as the PDG Book. A Particle Physics Booklet with the Summary Tables and essential tables, figures, and equations from selected review articles is available in print and as a web version optimized for use on phones as well as an Android app.
+RD 7/8/2025
+UL https://doi.org/10.1093/ptep/ptaa104
+
+
+
